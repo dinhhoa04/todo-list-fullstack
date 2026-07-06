@@ -1,6 +1,8 @@
 Todo List Fullstack App
 Ứng dụng Quản lý công việc (Todo List) — bài test vị trí Intern Developer.
-![alt text](image.png)
+
+<img width="1780" height="748" alt="image" src="https://github.com/user-attachments/assets/c48db406-da21-4637-ba5f-1076d5ab27b3" />
+
 Công nghệ sử dụng
 Thành phần	Công nghệ
 Backend	Java 17, Spring Boot, Spring Data JPA, Spring Validation
